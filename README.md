@@ -1,3 +1,6 @@
+
+![isro-aircraft](https://github.com/user-attachments/assets/e23a3d47-e28c-4c9c-b685-a4574affb230)
+
 each Functions uses thermodynamics first try to understand code u have know basics of thermodynamics!
 
 def calculate_range(fuel_capacity, fuel_consumption_rate, true_air_speed): 
